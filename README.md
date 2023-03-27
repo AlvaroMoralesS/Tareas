@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Mi nombre es Álvaro Morales, vivo en Concepción-Chile y trabajo como planificador Senior en Forestal Arauco(https://www.arauco.cl/) 
+<h1 align="center">Hola 👋, Mi nombre es Álvaro Morales, vivo en Concepción-Chile y trabajo como planificador Senior en [Forestal Arauco](https://www.arauco.cl/) 
   
 <h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
@@ -12,7 +12,6 @@
 
 
 
-
 # Hi there 👋
 
 <div align="center">
@@ -21,12 +20,6 @@
 </div>
 
 <br>
-
-<div align="center">
-
-Hello! My name is Pablo Badilla, I live in Santiago de Chile and I am currently working as a Data Scientist at [BCI](https://www.bci.cl/).
-
-</div>
 
 <br>
 
