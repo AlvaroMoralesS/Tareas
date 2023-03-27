@@ -59,7 +59,7 @@ Hello! My name is Pablo Badilla, I live in Santiago de Chile and I am currently 
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![GAMS](https://www.gams.com/img/gams_logo.svg)
 
 Data Science and Machine Learning Frameworks
 
