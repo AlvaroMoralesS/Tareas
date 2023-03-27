@@ -5,13 +5,6 @@
 
 </div>
 <br>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-<br>
 <p align="center">
     <a href="https://www.linkedin.com/in/alvaro-morales-salas-b001545a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,9 +35,6 @@
 <br>
 <br>
 
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=pbadillatorrealba&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
-</div>
 
 <br>
 <br>
@@ -54,7 +44,6 @@
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 Data Science and Machine Learning Frameworks
 
