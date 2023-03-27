@@ -43,14 +43,14 @@
 
 Lenguajes de programación
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
 Sofware de optimización
 
-![GAMS](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![Lingo](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![AMPL](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![GAMS]
+![Lingo]
+![AMPL]
 
 Data Science and Machine Learning Frameworks
 
