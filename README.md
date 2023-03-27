@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Hello! Mi nombre es Álvaro Morales, vivo en Concepción-Chile y trabajo como planificador Senior en [Forestal Arauco](https://www.arauco.cl/).
+Hola 👋, Mi nombre es Álvaro Morales, vivo en Concepción-Chile y trabajo como planificador Senior en [Forestal Arauco](https://www.arauco.cl/).
 
 </div>
 
