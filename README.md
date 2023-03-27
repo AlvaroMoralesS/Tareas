@@ -34,10 +34,6 @@
 - 🌲 Me apasiona trabajar en el sector forestal, dado que existe una serie de aplicaciones potenciales de alto impacto. 
 - 👷 He trabajado por 8 años en una empresa forestal en áreas como cartografía, planificación de largo y mediano plazo.
 
-<a target="_blank" align="center">
-  <img align="right" top="1000" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <br>
 
 - 👌 Me gusta realizar actividades al aire libre como ciclismo, andar en Kayak o stand up paddle.
