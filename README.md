@@ -23,10 +23,14 @@
 
 - 💙 Mis áreas de interés son Investigación de Operaciones y Aprendizaje de máquinas.
 - 🧑‍🎓 Actualmente estoy realizando un doctorado en sistemas de Ingeniería en [University of Chile ](https://www.dcc.uchile.cl/).
+
 <br>
+
 - 🌲 Me apasiona trabajar en el sector forestal, dado que existe una serie de aplicaciones potenciales de alto impacto. 
 - 👷 He trabajado por 8 años en una empresa forestal en áreas como cartografía, planificación de largo y mediano plazo.
+
 <br>
+
 - 👌 Me gusta realizar actividades al aire libre como ciclismo, andar en Kayak o stand up paddle.
 - 💪 Comunmente me agrada practicar natación o ir al gimnasio.
 - 🌎 Me gusta viajar, conocer nuevos paises.
@@ -37,10 +41,16 @@
 
 ## Dominio sistémico 🛠️
 
-Programming Languages
+Lenguajes de programación
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+
+Sofware de optimización
+
 ![GAMS](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Lingo](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![AMPL](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
 Data Science and Machine Learning Frameworks
 
