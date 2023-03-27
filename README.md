@@ -48,9 +48,7 @@ Lenguajes de programación
 
 Sofware de optimización
 
-![GAMS]
-![Lingo]
-![AMPL]()
+[GAMS][Lingo][AMPL]
 
 Data Science and Machine Learning Frameworks
 
