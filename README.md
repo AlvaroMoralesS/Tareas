@@ -50,8 +50,7 @@ Sofware de optimización
 
 ![GAMS]
 ![Lingo]
-![AMPL](![logo-inline-web-v4](https://user-images.githubusercontent.com/128988352/227823407-c06718cb-f8d8-4c67-8cc9-08f2ec4a2f41.jpg)
-)
+![AMPL]()
 
 Data Science and Machine Learning Frameworks
 
