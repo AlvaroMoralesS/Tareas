@@ -50,7 +50,8 @@ Sofware de optimización
 
 ![GAMS]
 ![Lingo]
-![AMPL](https://mlyau5vyqpxz.i.optimole.com/w:430/h:106/q:mauto/f:avif/https://ampl.com/wp-content/uploads/2020/12/logo-inline-web-v4.png)
+![AMPL](![logo-inline-web-v4](https://user-images.githubusercontent.com/128988352/227823407-c06718cb-f8d8-4c67-8cc9-08f2ec4a2f41.jpg)
+)
 
 Data Science and Machine Learning Frameworks
 
